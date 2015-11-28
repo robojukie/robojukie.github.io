@@ -2231,7 +2231,7 @@
 			padding: 0;
 		}
 
-/* Icon */
+ Icon 
 
 	.icon {
 		text-decoration: none;
@@ -2242,7 +2242,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-size: 5em;
+			/*font-size: 5em;*/
 			line-height: 1em;
 			font-family: FontAwesome;
 			font-style: normal;
@@ -2927,7 +2927,7 @@
 			opacity: .5;
 			color: white;
 			text-transform: none !important;
-		}
+		} 
 
 		#banner:after {
 			background-image: -moz-linear-gradient(top, rgba(135,198,195, 0.95), rgba(135,198,195, 0.95)), url("images/overlay.png");;
