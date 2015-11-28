@@ -2946,6 +2946,7 @@
 
 		#banner h2 {
 			text-transform: none;
+			position: relative;
 			color: #ffffff;
 		}
 
