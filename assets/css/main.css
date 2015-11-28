@@ -2946,13 +2946,14 @@
 
 		#banner h2 {
 			text-transform: none;
-			position: fixed;
+			/*position: fixed;*/
 			color: #ffffff;
 		}
 
 		#banner .content {
 			display: inline-block;
-			margin-right: 1%;
+			/*margin-right: 1%;*/
+			margin-left: 1%;
 			max-width: 95%;
 			padding: 6em;
 			position: relative;
