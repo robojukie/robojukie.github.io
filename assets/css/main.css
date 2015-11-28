@@ -2946,7 +2946,7 @@
 
 		#banner h2 {
 			text-transform: none;
-			/*position: fixed;*/
+			text-align: center;
 			color: #ffffff;
 		}
 
