@@ -3133,17 +3133,17 @@
 			/*background-image: -ms-linear-gradient(top, rgba(149, 175, 38, 1), rgba(149, 175, 38, 1)), url("images/overlay.png");;*/
 			/*background-image: linear-gradient(top, rgba(149, 175, 38, 1), rgba(149, 175, 38, 1)), url("images/overlay.png");;*/
 
-			background-image: -moz-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 591, 1)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;
+			/*background-image: -moz-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 591, 1)), url("images/overlay.png");;*/
+			/*background-image: -webkit-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;*/
+			/*background-image: -ms-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;*/
+			/*background-image: linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;*/
 		
-/*
-			background-image: -moz-linear-gradient(top, rgba(204, 204, 51, 1), rgba(204, 204, 51, 1)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(204, 204, 51, 1), rgba(204, 204, 51, 1)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(204, 204, 51, 1), rgba(204, 204, 51, 1)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(204, 204, 51, 1), rgba(204, 204, 51, 1)), url("images/overlay.png");;
-*/			
+
+			background-image: -moz-linear-gradient(top, rgba(109, 155, 44 1), rgba(109, 155, 44, 1)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(109, 155, 44, 1), rgba(109, 155, 44, 1)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(109, 155, 44, 1), rgba(109, 155, 44, 1)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(109, 155, 44, 1), rgba(2109, 155, 44, 1)), url("images/overlay.png");;
+
 			content: '';
 			display: block;
 			height: 100%;
@@ -3223,7 +3223,8 @@
 	#footer {
 		padding: 6em 0 6em 0 ;
 		/*background-color: #95af26;*/
-		background-color: #8fbf3b;
+		/*background-color: #8fbf3b;*/
+		background-color: #6d9b2c;
 		/*opacity: .35;*/
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
