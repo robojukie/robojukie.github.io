@@ -2247,7 +2247,7 @@
 			font-style: normal;
 			font-weight: normal;
 			opacity: .75;
-			color: #99CC33;;
+			color: #95af26;;
 			text-transform: none !important;
 		}
 
@@ -3090,7 +3090,7 @@
 
 	#banner {
 		background-attachment: fixed;
-		background-color: #99cc33;
+		background-color: #95af26;
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3222,7 +3222,7 @@
 
 	#footer {
 		padding: 6em 0 6em 0 ;
-		background-color: #99cc33;
+		background-color: #95af26;
 		/*opacity: .35;*/
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
@@ -3284,7 +3284,7 @@
 			#footer .button.special {
 				background-color: #ffffff;
 				box-shadow: inset 0 0 0 1px #ffffff !important;
-				color: #99cc33 !important;
+				color: #95af26 !important;
 			}
 
 				#footer input[type="submit"].special:hover,
