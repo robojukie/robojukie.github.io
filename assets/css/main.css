@@ -2937,8 +2937,8 @@
 	}
 
 	#header {
-		/*background: rgba(135, 198, 195, 0.95);*/
-		background: rgba(149, 175, 38, 1);
+		background: rgba(143, 191, 59, 0.95);
+		/*background: rgba(149, 175, 38, 1);*/
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
 		cursor: default;
 		height: 3.5em;
@@ -3123,7 +3123,7 @@
 		} 
 
 		#banner:after {
-/*			background-image: -moz-linear-gradient(top, rgba(135,198,195, 0.95), rgba(135,198,195, 0.95)), url("images/overlay.png");;
+/*			background-image: -moz-linear-gradient(top, rgba(143, 191, 59, 0.95), rgba(135,198,195, 0.95)), url("images/overlay.png");;
 			background-image: -webkit-linear-gradient(top, rgba(135,198,195, 0.95), rgba(135,198,195, 0.95)), url("images/overlay.png");;
 			background-image: -ms-linear-gradient(top, rgba(135,198,195, 0.95), rgba(135,198,195, 0.95)), url("images/overlay.png");;
 			background-image: linear-gradient(top, rgba(135,198,195, 0.95), rgba(135,198,195, 0.95)), url("images/overlay.png");;
@@ -3133,10 +3133,10 @@
 			background-image: -ms-linear-gradient(top, rgba(149, 175, 38, 1), rgba(149, 175, 38, 1)), url("images/overlay.png");;
 			background-image: linear-gradient(top, rgba(149, 175, 38, 1), rgba(149, 175, 38, 1)), url("images/overlay.png");;
 
-/*			background-image: -moz-linear-gradient(top, rgba(102, 153, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(102, 153, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(102, 153,, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(102, 153, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
+/*			background-image: -moz-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 591, 1)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(143, 191, 59, 1), rgba(143, 191, 59, 1)), url("images/overlay.png");;
 		*/
 /*
 			background-image: -moz-linear-gradient(top, rgba(204, 204, 51, 1), rgba(204, 204, 51, 1)), url("images/overlay.png");;
