@@ -2622,7 +2622,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: rgba(153, 204, 51, .75);
+			background-color: rgba(149, 175, 38, .75);
 		}
 
 		input[type="submit"]:active,
@@ -2691,7 +2691,7 @@
 			button.special:hover,
 			.button.special:hover {
 				/*background-color: #626262;*/
-				background-color: #99cc33;
+				background-color: #95af26;
 			}
 
 			input[type="submit"].special:active,
@@ -2700,7 +2700,7 @@
 			button.special:active,
 			.button.special:active {
 				/*background-color: #484848;*/
-				background-color: #99cc33;				
+				background-color: #95af26;				
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2938,7 +2938,7 @@
 
 	#header {
 		/*background: rgba(135, 198, 195, 0.95);*/
-		background: rgba(153, 204, 51, 1);
+		background: rgba(149, 175, 38, 1);
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
 		cursor: default;
 		height: 3.5em;
@@ -3128,10 +3128,10 @@
 			background-image: -ms-linear-gradient(top, rgba(135,198,195, 0.95), rgba(135,198,195, 0.95)), url("images/overlay.png");;
 			background-image: linear-gradient(top, rgba(135,198,195, 0.95), rgba(135,198,195, 0.95)), url("images/overlay.png");;
 	*/
-			background-image: -moz-linear-gradient(top, rgba(153, 204, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(153, 204, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(153, 204, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(153, 204, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(149, 175, 38, 1), rgba(149, 175, 38, 1)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(149, 175, 38, 1), rgba(149, 175, 38, 1)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(149, 175, 38, 1), rgba(149, 175, 38, 1)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(149, 175, 38, 1), rgba(149, 175, 38, 1)), url("images/overlay.png");;
 
 /*			background-image: -moz-linear-gradient(top, rgba(102, 153, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
 			background-image: -webkit-linear-gradient(top, rgba(102, 153, 51, 1), rgba(153, 204, 51, 1)), url("images/overlay.png");;
